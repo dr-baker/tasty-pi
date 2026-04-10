@@ -22,20 +22,32 @@ This package collects Pi extensions, skills, and themes in one repo.
 - `rose-pine` — a warm purple Rose Pine-inspired dark theme
 - `synthwave` — a neon dark theme with bright cyan and pink accents
 
-## Local development
+## Installation
 
-Install this repo into Pi as a local path package:
+Install directly from npm:
 
 ```bash
-pi install tasty-pi
+pi install npm:tasty-pi
 ```
 
-Because Pi loads local path packages from disk, edits in this repo are live once Pi reloads resources.
+Or install from GitHub:
+
+```bash
+pi install git:github.com/dr-baker/tasty-pi
+```
+
+## Local development
+
+If you want to modify this package locally, clone it and install from the local directory:
+
+```bash
+git clone https://github.com/dr-baker/tasty-pi.git
+cd tasty-pi
+pi install .
+```
+
+Because Pi loads local path packages from disk, edits in the repo are live once Pi reloads resources.
 
 ```text
 /reload
 ```
-
-## Publish later
-
-This repo is already structured as a Pi package, so it can be shared through git or npm later.
