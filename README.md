@@ -6,6 +6,9 @@ Custom Pi package for Daniel's shared extensions, skills, and themes.
 
 This package collects Pi extensions, skills, and themes in one repo.
 
+### Extensions
+- `command-browser` — browse built-in commands, extension commands, skills, and prompts from a picker UI
+
 ## Local development
 
 Install this repo into Pi as a local path package:
