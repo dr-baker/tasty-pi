@@ -8,6 +8,7 @@ This package collects Pi extensions, skills, and themes in one repo.
 
 ### Extensions
 - `command-browser` — browse built-in commands, extension commands, skills, and prompts from a picker UI
+- `theme-cycler` — choose a theme from inside Pi and persist it to settings
 
 ## Local development
 
