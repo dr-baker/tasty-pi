@@ -16,6 +16,12 @@ This package collects Pi extensions, skills, and themes in one repo.
 - `commit-style` — split changes into logical commits and write plain-language commit messages
 - `plan-todos` — keep working plans in `plans/` with a consistent todo structure
 
+### Themes
+- `dracula-dark` — a high-contrast Dracula palette tuned for Pi
+- `nord-dark` — a muted Nord palette with cool blue accents
+- `rose-pine` — a warm purple Rose Pine-inspired dark theme
+- `synthwave` — a neon dark theme with bright cyan and pink accents
+
 ## Local development
 
 Install this repo into Pi as a local path package:

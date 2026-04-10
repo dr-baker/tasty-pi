@@ -1,0 +1,82 @@
+{
+  "$schema": "https://raw.githubusercontent.com/badlogic/pi-mono/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json",
+  "name": "dracula-dark",
+  "vars": {
+    "bg": "#282A36",
+    "current": "#44475A",
+    "selection": "#44475A",
+    "fg": "#F8F8F2",
+    "comment": "#6272A4",
+    "cyan": "#8BE9FD",
+    "green": "#50FA7B",
+    "orange": "#FFB86C",
+    "pink": "#FF79C6",
+    "purple": "#BD93F9",
+    "red": "#FF5555",
+    "yellow": "#F1FA8C"
+  },
+  "colors": {
+    "accent": "pink",
+    "border": "purple",
+    "borderAccent": "cyan",
+    "borderMuted": "current",
+    "success": "green",
+    "error": "red",
+    "warning": "yellow",
+    "muted": "comment",
+    "dim": "comment",
+    "text": "fg",
+    "thinkingText": "comment",
+
+    "selectedBg": "selection",
+    "userMessageBg": "current",
+    "userMessageText": "fg",
+    "customMessageBg": "bg",
+    "customMessageText": "fg",
+    "customMessageLabel": "pink",
+    "toolPendingBg": "bg",
+    "toolSuccessBg": "#233A2E",
+    "toolErrorBg": "#3C2330",
+    "toolTitle": "purple",
+    "toolOutput": "comment",
+
+    "mdHeading": "yellow",
+    "mdLink": "cyan",
+    "mdLinkUrl": "purple",
+    "mdCode": "green",
+    "mdCodeBlock": "green",
+    "mdCodeBlockBorder": "current",
+    "mdQuote": "comment",
+    "mdQuoteBorder": "purple",
+    "mdHr": "current",
+    "mdListBullet": "pink",
+
+    "toolDiffAdded": "green",
+    "toolDiffRemoved": "red",
+    "toolDiffContext": "comment",
+
+    "syntaxComment": "comment",
+    "syntaxKeyword": "pink",
+    "syntaxFunction": "green",
+    "syntaxVariable": "fg",
+    "syntaxString": "yellow",
+    "syntaxNumber": "purple",
+    "syntaxType": "cyan",
+    "syntaxOperator": "pink",
+    "syntaxPunctuation": "fg",
+
+    "thinkingOff": "current",
+    "thinkingMinimal": "comment",
+    "thinkingLow": "purple",
+    "thinkingMedium": "pink",
+    "thinkingHigh": "orange",
+    "thinkingXhigh": "red",
+
+    "bashMode": "green"
+  },
+  "export": {
+    "pageBg": "#1E1F29",
+    "cardBg": "#282A36",
+    "infoBg": "#3A3D4D"
+  }
+}
