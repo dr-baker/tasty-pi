@@ -1,0 +1,7 @@
+interface:
+  display_name: "Commit Style"
+  short_description: "Split diffs into coherent commits"
+  default_prompt: "Use $commit-style to split this diff into separate conceptual commits and write each one in my plain-language style with a short subject and usually bullet details."
+
+policy:
+  allow_implicit_invocation: true

@@ -12,6 +12,10 @@ This package collects Pi extensions, skills, and themes in one repo.
 - `tool-preview` — replace built-in tool previews with shorter, more readable summaries
 - `turn-timing` — show a timing breakdown after each agent turn
 
+### Skills
+- `commit-style` — split changes into logical commits and write plain-language commit messages
+- `plan-todos` — keep working plans in `plans/` with a consistent todo structure
+
 ## Local development
 
 Install this repo into Pi as a local path package:
