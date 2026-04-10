@@ -1,7 +1,7 @@
 {
-  "name": "daniel-pi-config",
+  "name": "tasty-pi",
   "version": "0.1.0",
-  "description": "Daniel's Pi package with custom extensions, skills, and themes.",
+  "description": "Tasty Pi: a Pi package with custom extensions, skills, and themes.",
   "keywords": ["pi-package"],
   "type": "module",
   "files": [

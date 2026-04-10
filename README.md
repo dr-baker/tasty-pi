@@ -1,6 +1,6 @@
-# daniel-pi-config
+# Tasty Pi
 
-Custom Pi package for Daniel's shared extensions, skills, and themes.
+A Pi package with custom extensions, skills, and themes.
 
 ## Included resources
 
